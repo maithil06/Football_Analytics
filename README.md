@@ -3,7 +3,7 @@
 This repository contains a demonstration video (`annotated_output.mp4`) showcasing a computer vision model in action.  
 The video features a soccer match with **real-time object detection, keypoint detection, and tracking** applied to identify players and the ball.
 
-https://github.com/user-attachments/assets/30af69d5-14ba-4879-b65b-9bed1dd8a6f1
+https://github.com/user-attachments/assets/ee034974-73cf-4539-88af-bd15641d4b17
 
 ---
 
